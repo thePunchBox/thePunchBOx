@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm tall!**
 
-[![trophy](https://github-profile-trophy.vercel.app/?usernamethePunchBox&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thePunchBox&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
