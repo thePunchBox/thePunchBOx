@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I'm tall!**
 
+[![trophy](https://github-profile-trophy.vercel.app/thePunchBox=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rafaythebachani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafayshakeel10" height="30" width="40" /></a>
